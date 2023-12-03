@@ -1,29 +1,35 @@
+/* Body styles */
 body {
     background-image: url(../img/coffeebeansBackGround.jpg);
     font-family: sans-serif;
     padding: 20px;
 }
 
+/* Title styles */
 h1 {
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
 }
 
+/* Subtitle styles */
 h2 {
     font-size: 30px;
 }
 
+/* Styling for the establishment date*/
 .established {
     font-style: italic;
 }
 
+/* Text alignment for all headers and paragraphs. */
 h1,
 h2,
 p {
     text-align: center;
 }
 
+/* Menu container styles */
 .menu {
     width: 80%;
     background-color: burlywood;
@@ -32,7 +38,7 @@ p {
     padding: 20px;
     max-width: 500px;
 }
-
+/* Img styles */
 img {
     display: block;
     margin-left: auto;
@@ -40,21 +46,25 @@ img {
     margin-top: -25px;
 }
 
+/* Content separator line */
 hr {
     height: 2px;
     background-color: brown;
     border-color: brown;
 }
 
+/* Content separator bottom line */
 .bottom-line {
     margin-top: 25px;
 }
 
+/* Title and Subtitle styles */
 h1,
 h2 {
     font-family: Impact, serif;
 }
 
+/* Items paragraph styles */
 .item p {
     display: inline-block;
     margin-top: 5px;
@@ -62,6 +72,7 @@ h2 {
     font-size: 18px;
 }
 
+/* Flavor and Dessert text styles */
 .flavor,
 .dessert {
     text-align: left;
@@ -73,7 +84,7 @@ h2 {
     width: 25%;
 }
 
-/* FOOTER */
+/* Footer styles*/
 
 footer {
     font-size: 14px;
